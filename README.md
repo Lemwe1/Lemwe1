@@ -1,9 +1,10 @@
 # Hi, I'm Lemuel Dioquino!
 
-<div align="center width:100%">
+<div align="center" style="width:100%;">
 
-  <img src="./assets/Lemwe1Bg.gif" style="max-width: 100%; display: inline-block; border-radius: 20px;" alt="BG Gif">
+  <img src="./assets/Lemwe1Bg.gif" alt="BG Gif" style="width: 100%; border-radius: 20px;">
 
+</div>
 
 I'm an IT student passionate about:
 
@@ -11,7 +12,6 @@ I'm an IT student passionate about:
 🎮 <b>Software Development</b> | 
 💎 <b>AI Engineering</b> | 
 🎨 <b>Graphic Design</b></p>
-</div>
 
 ---
 
@@ -67,6 +67,5 @@ I'm an IT student passionate about:
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemuel-dioquino-406229208/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/ladioq))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ladioq)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lemwe1)
-
