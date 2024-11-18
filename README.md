@@ -1,7 +1,7 @@
 # Hi, I'm Lemuel Dioquino!
 
 <div align="center">
-  <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
+  <img src="./assets/Lemwe1Bg.gif" width="200px" style="border-radius: 20px;" alt="BG Gif">
 
 I'm an IT student passionate about:
 
