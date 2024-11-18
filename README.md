@@ -1,4 +1,4 @@
-# Halloooo, I'm Lemuel Dioquino!
+# Hi, I'm Lemuel Dioquino!
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
@@ -7,7 +7,6 @@ I'm an IT student passionate about:
 
 <p>🌐 <b>Web Development</b> | 
 🎮 <b>Software Development</b> | 
-🎨 <b>Digital Art/Graphics</b> | 
 💎 <b>AI Engineering</b></p>
 </div>
 
