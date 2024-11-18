@@ -1,7 +1,3 @@
-Here’s the updated version with **Figma** and other frontend tools included under "Tools":
-
----
-
 # Hi, I'm Lemuel Dioquino!
 
 <div align="center">
