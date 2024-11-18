@@ -5,12 +5,21 @@
   <img src="./assets/Lemwe1Bg.gif" alt="BG Gif"  style="border-radius: 20px;" width="100%" height="400px">
 
 </div>
+
 ---
+
+
 📫 How to reach me: lemueldioquino@gmail.com
+
 ---
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lemwe1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
+---
+
 
 I'm an IT student passionate about:
 
