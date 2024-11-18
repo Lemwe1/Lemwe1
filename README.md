@@ -6,6 +6,7 @@
 
 </div>
 
+📫 How to reach me: lemueldioquino@gmail.com
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lemwe1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
