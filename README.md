@@ -1,6 +1,6 @@
 # Hi, I'm Lemuel Dioquino!
 
-<div align="center">
+<div align="center width:100%">
 
   <img src="./assets/Lemwe1Bg.gif" style="max-width: 100%; display: inline-block; border-radius: 20px;" alt="BG Gif">
 
