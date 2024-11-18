@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Lemwe1&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Lemwe1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 I'm an IT student passionate about:
