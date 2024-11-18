@@ -39,21 +39,6 @@ I'm an IT student passionate about:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | Figma |
 
-| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Blockbench](https://skillicons.dev/icons?i=blockbench) | ![Krita](https://skillicons.dev/icons?i=krita) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) |
-|:---:|:---:|:---:|:---:|:---:|
-| Bridge | Blender 3D | Blockbench | Krita | Inkscape |
-
-### Others
-
-- JSON
-- 2D Digital Art
-- 3D Modeling
-- 3D and 2D Animation
-
-<div align="center">
-  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
-</div>
-
 ---
 
 ## 🔨 Working On
