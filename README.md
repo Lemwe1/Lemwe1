@@ -2,7 +2,7 @@
 
 <div align="center" style="width:100%;">
 
-  <img src="./assets/Lemwe1Bg.gif" alt="BG Gif" style="width: 100%; border-radius: 20px;">
+  <img src="./assets/Lemwe1Bg.gif" alt="BG Gif"  style="width: 100%; border-radius: 20px;" width="900px">
 
 </div>
 
