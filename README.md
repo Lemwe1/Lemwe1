@@ -23,7 +23,7 @@ I'm an IT student passionate about:
 
 ### Web Technologies
 
-| ![React.js](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) |
+| ![React.js](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | React.js | Node.js | Express.js | Firebase | AWS | Google Cloud |
 
