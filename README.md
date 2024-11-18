@@ -14,7 +14,7 @@ I'm an IT student passionate about:
 
 ### Languages
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Lua](https://skillicons.dev/icons?i=lua) | ![C#](https://skillicons.dev/icons?i=cs) | ![C#](https://skillicons.dev/icons?i=python) |
+| ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![C#](https://skillicons.dev/icons?i=cs) | ![C#](https://skillicons.dev/icons?i=python) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Java | Kotlin | JavaScript | Lua | C# | Python |
 
@@ -64,5 +64,4 @@ I'm an IT student passionate about:
 
 </div>
 
-- **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
 - **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
