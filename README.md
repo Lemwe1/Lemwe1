@@ -66,7 +66,7 @@ I'm an IT student passionate about:
 
 - **PSITS-UCB Web-Based POS System:**  
   - **GitHub Repository - Frontend**   
-  Contributed to the development of a **POS System** and website for the **College of Computer Studies Students and Officers** using the **MERN Stack**, showcasing skills in frontend and backend development.
+ Developed the frontend and designed the UI/UX of a POS System and website for the College of Computer Studies Students and Officers using React.js, ensuring a responsive, user-friendly interface and seamless integration with backend services in the MERN Stack.
 
 ---
 
