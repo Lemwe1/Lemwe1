@@ -65,7 +65,7 @@ I'm an IT student passionate about:
   A **web application** built with React.js and an **Android app** developed in Unity. *(Under development!)*
 
 - **PSITS-UCB Web-Based POS System:**  
-  - **GitHub Repository - Frontend** | **GitHub Repository - Frontend**  
+  - **GitHub Repository - Frontend**   
   Contributed to the development of a **POS System** and website for the **College of Computer Studies Students and Officers** using the **MERN Stack**, showcasing skills in frontend and backend development.
 
 ---
